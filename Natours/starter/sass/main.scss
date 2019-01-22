@@ -4,6 +4,8 @@ $color-primary-light: #7ed56f;
 $color-primary-dark: #28b485;
 
 $color-gray-dark: #777;
+$color-white: #fff;
+
 
 * {
   margin: 0;
@@ -50,7 +52,7 @@ body {
 }
 
 .heading-primary{
-  color: #fff;
+  color: $color-white;
   text-transform: uppercase;
   margin-bottom: 60px;
 }
@@ -126,7 +128,7 @@ body {
 }
 
 .btn-white {
-  background-color: #fff;
+  background-color: $color-white;
   color: $color-gray-dark;
   padding: 15px 40px;
   display: inline-block;
@@ -155,8 +157,10 @@ body {
 }
 
 .btn-white:after {
-  background-color: #fff;
+  background-color: $color-white;
 }
+
+
 
 .btn:hover:after {
   transform: scaleX(1.4) scaleY(1.6);
