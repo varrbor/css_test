@@ -1,7 +1,9 @@
-* {
+*,
+*::after,
+*::before {
   margin: 0;
   padding: 0;
-  box-sizing: border-box; }
+  box-sizing: inherit; }
 
 html {
   font-size: 62.5%; }
@@ -12,7 +14,8 @@ body {
   font-size: 1.6rem;
   font-height: 1.7;
   color: #777;
-  padding: 3rem; }
+  padding: 3rem;
+  box-sizing: border-box; }
 
 .header {
   height: 95vh;

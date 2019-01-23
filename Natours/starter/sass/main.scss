@@ -7,10 +7,14 @@ $color-gray-dark: #777;
 $color-white: #fff;
 
 
-* {
+*,
+*::after,
+*::before
+
+{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
 
 html {
@@ -24,6 +28,7 @@ body {
   font-height: 1.7;
   color: $color-gray-dark;
   padding: 3rem;
+  box-sizing: border-box;
 }
 
 .header {
