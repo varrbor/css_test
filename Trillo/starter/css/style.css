@@ -102,7 +102,7 @@ body {
     align-items: center;
     position: relative; }
   .user-nav__icon {
-    height: 2.25rem;
+    height: 2.26rem;
     width: 2.25rem;
     fill: var(--color-grey-dark-2); }
   .user-nav__notification {
@@ -166,7 +166,7 @@ body {
 
 .legal {
   font-size: 1.2rem;
-  color: var(--color-grey-dark-4);
+  color: var(--color-grey-dark-3);
   text-align: center;
   padding: 2.5rem; }
 
@@ -174,7 +174,7 @@ body {
   max-width: 120rem;
   margin: 8rem;
   background-color: var(--color-grey-light-1);
-  box-shadow: var(--shadow-dar);
+  box-shadow: var(--shadow-dark);
   min-height: 50rem; }
 
 .content {

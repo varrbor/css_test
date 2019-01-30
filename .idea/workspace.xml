@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="298f1f9b-ad5f-4238-9c41-68475cbf30b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trillo/starter/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Trillo/starter/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trillo/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Trillo/starter/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trillo/starter/sass/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Trillo/starter/sass/_components.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trillo/starter/sass/_layouts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Trillo/starter/sass/_layouts.scss" afterDir="false" />
     </list>
@@ -51,7 +49,7 @@
           <entry key="gitignore" value="3" />
           <entry key="html" value="1028" />
           <entry key="json" value="136" />
-          <entry key="scss" value="2096" />
+          <entry key="scss" value="2102" />
           <entry key="svg" value="1" />
           <entry key="txt" value="68" />
         </counts>
@@ -62,7 +60,7 @@
           <entry key="HTML" value="1028" />
           <entry key="JSON" value="136" />
           <entry key="PLAIN_TEXT" value="71" />
-          <entry key="SCSS" value="2096" />
+          <entry key="SCSS" value="2102" />
           <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
@@ -96,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Trillo/starter/sass/_components.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="118" column="7" selection-start-line="118" selection-start-column="7" selection-end-line="118" selection-end-column="7" />
+            <state relative-caret-position="412">
+              <caret line="185" column="31" selection-start-line="185" selection-start-column="31" selection-end-line="185" selection-end-column="31" />
               <folding>
                 <element signature="e#108#114#0" />
               </folding>
@@ -108,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Trillo/starter/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+            <state relative-caret-position="109">
+              <caret line="168" column="15" lean-forward="true" selection-start-line="168" selection-start-column="15" selection-end-line="168" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -120,10 +118,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Trillo/starter/sass/_layouts.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
-                <marker date="1548857729228" expanded="true" signature="391:396" ph="..." />
+                <marker date="1548869440801" expanded="true" signature="392:397" ph="..." />
               </folding>
             </state>
           </provider>
@@ -137,11 +135,18 @@
       <find>#55c57a</find>
       <find>#777</find>
       <find>#fff</find>
+      <find>starter</find>
+      <find>--color-grey-dark-4</find>
+      <find>shadow-dar</find>
+      <find>grey</find>
     </findStrings>
     <replaceStrings>
       <replace>$color-gray-dark</replace>
       <replace>$color-white</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Trillo/starter</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -158,10 +163,10 @@
         <option value="$PROJECT_DIR$/Trillo/starter/sass/main.scss" />
         <option value="$PROJECT_DIR$/Trillo/starter/sass/_base.scss" />
         <option value="$PROJECT_DIR$/Trillo/starter/img/sprite.svg" />
-        <option value="$PROJECT_DIR$/Trillo/starter/sass/_layouts.scss" />
         <option value="$PROJECT_DIR$/Trillo/starter/index.html" />
-        <option value="$PROJECT_DIR$/Trillo/starter/sass/_components.scss" />
         <option value="$PROJECT_DIR$/Trillo/starter/css/style.css" />
+        <option value="$PROJECT_DIR$/Trillo/starter/sass/_layouts.scss" />
+        <option value="$PROJECT_DIR$/Trillo/starter/sass/_components.scss" />
       </list>
     </option>
   </component>
@@ -302,7 +307,7 @@
       <workItem from="1548185877185" duration="12512000" />
       <workItem from="1548362950457" duration="598000" />
       <workItem from="1548628385555" duration="1318000" />
-      <workItem from="1548766454740" duration="34816000" />
+      <workItem from="1548766454740" duration="35377000" />
     </task>
     <task id="LOCAL-00001" summary="qq">
       <created>1548176427199</created>
@@ -437,17 +442,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548853586240</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="header">
+      <created>1548869345916</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1548869345916</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58580000" />
+    <option name="totallyTimeSpent" value="59141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25338647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -581,23 +593,6 @@
     <entry file="file://$PROJECT_DIR$/Trillo/starter/img/sprite.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trillo/starter/sass/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trillo/starter/sass/_layouts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-          <folding>
-            <marker date="1548857729228" expanded="true" signature="391:396" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trillo/starter/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -608,20 +603,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trillo/starter/sass/_components.scss">
+    <entry file="file://$PROJECT_DIR$/Trillo/starter/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="118" column="7" selection-start-line="118" selection-start-column="7" selection-end-line="118" selection-end-column="7" />
+        <state relative-caret-position="109">
+          <caret line="168" column="15" lean-forward="true" selection-start-line="168" selection-start-column="15" selection-end-line="168" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trillo/starter/sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trillo/starter/sass/_layouts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
-            <element signature="e#108#114#0" />
+            <marker date="1548869440801" expanded="true" signature="392:397" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trillo/starter/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Trillo/starter/sass/_components.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        <state relative-caret-position="412">
+          <caret line="185" column="31" selection-start-line="185" selection-start-column="31" selection-end-line="185" selection-end-column="31" />
+          <folding>
+            <element signature="e#108#114#0" />
+          </folding>
         </state>
       </provider>
     </entry>
