@@ -365,3 +365,40 @@
   }
 }
 
+////////////////////
+////reviews
+
+.user-reviews{
+
+}
+
+.review{
+  background-color: #fff;
+  padding: 3rem;
+  margin-bottom: 3rem;
+  box-shadow: var(--shadow-light);
+
+  &__text{
+
+  }
+
+  &__user{
+
+  }
+
+  &__photo{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+  }
+
+  &__user-box{
+
+  }
+
+  &__user-date{
+
+  }
+
+
+}
